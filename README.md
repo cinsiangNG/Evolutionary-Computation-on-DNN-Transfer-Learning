@@ -1,1 +1,1 @@
-# Evolutionary-Computation-on-DNN-Transfer-Learning
+# DNN-GA
